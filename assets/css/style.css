@@ -1,0 +1,47 @@
+body {
+    font-family: "PT Mono"
+}
+
+.important {
+    font-family: "Monaco"
+}
+
+a:link {
+    color: green
+}
+
+a:visited {
+    color: hotpink
+}
+
+a:hover {
+    color: red
+}
+
+a:active {
+    color: yellow
+}
+
+a:link.head {
+    color: green
+}
+
+a:visited.head {
+    color: green
+}
+
+a:hover.head {
+    color: red
+}
+
+a:active.head {
+    color: yellow
+}
+
+h1, h2, h3 {
+    color: lime
+}
+
+#main {
+    background-color: black
+}
